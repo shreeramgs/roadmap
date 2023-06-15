@@ -33,7 +33,12 @@ One approach I personally use to start and solve any case scenario is to use the
 
 
 # **Steps involved in solving a Data Science problem**
-![data science workflow](https://github.com/shreeramgs/Data-Science-projects/assets/40434495/816ff17b-5f18-42e1-af9f-9661397797c7)
+##  Data science workflow
+<p align="center">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://github.com/shreeramgs/Data-Science-projects/assets/40434495/816ff17b-5f18-42e1-af9f-9661397797c7" alt="Python Logo" width="550">
+  </a>
+</p>
 
 -   #    Data Analysis
     >   **Data Acquisition**:
@@ -224,21 +229,21 @@ Below are few prerequisites that I personally consider to be very useful to solv
 
 ## 1. Python Programming Language
 <p align="left">
-  <a href="link_to_your_page">
+  <a href="https://www.python.org/downloads/">
     <img src="https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png" alt="Python Logo" width="250">
   </a>
 </p>
 
 ## 2. Statistics
 <p align="left">
-  <a href="link_to_your_page">
+  <a href="https://www.sas.com/en_us/software/how-to-buy.html?utm_source=google&utm_medium=cpc&utm_campaign=ana-gen-gbc-dyk-global">
     <img src="https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png" alt="Python Logo" width="250">
   </a>
 </p>
 
 ## 3. Databases
 <p align="left">
-  <a href="link_to_your_page">
+  <a href="https://www.mysql.com/products/workbench/">
     <img src="https://user-images.githubusercontent.com/20041231/211718051-2af3c5ba-cb6d-451b-85ea-5bb01abd9869.png" alt="Python Logo" width="125">
   </a>
     <a href="link_to_your_page">
@@ -248,7 +253,7 @@ Below are few prerequisites that I personally consider to be very useful to solv
 
 ## 4. Visualization tools
 <p align="left">
-  <a href="link_to_your_page">
+  <a href="https://www.tableau.com/">
     <img src="https://user-images.githubusercontent.com/40434495/236576283-5bd8858d-263d-48a6-98be-6eb7c7d27a39.png" alt="Python Logo" width="250">
   </a>
 </p>
