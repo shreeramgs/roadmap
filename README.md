@@ -51,24 +51,24 @@ One approach I personally use to start and solve any case scenario is to use the
 
 -   #    Hypothesis Formulation and Testing:
 <p align="center">
-  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Hypothesis%20Formulation%20and%20Testing/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/ac6e3a6a-e2b2-4a3b-b755-8a1338a95eb6" alt="Data Analysis" width="550">
   </a>
 </p>
 
 -   #    Feature Engineering:
-    -   Perform appropriate data Analysis as mentioned above to get a meaningful set of attributes
+    -   Perform appropriate data analysis as mentioned above to get a meaningful set of attributes
 
 -   #    Feature Selection:
 <p align="center">
-  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Feature%20Selection/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/317c54a1-24f4-4cf2-a1e6-18884fe60a0f" alt="Data Analysis" width="550">
   </a>
 </p>
 
 -   #    Model Creation and Evaluation:   
 <p align="center">
-  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Model%20Creation%20and%20Evaluation/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/d2dcab5e-4813-48f5-b35e-eff8796b7920" alt="Data Analysis">
   </a>
 </p>
