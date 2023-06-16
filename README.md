@@ -8,7 +8,7 @@ A walkthrough on a structured approach to ensure a successful completion of a da
 The problem statement is a critical first step in any data science project, providing a clear definition of the problem to be solved and guiding the development of research questions and hypotheses to reach a well-defined solution.
 
 **How to find the scope of the problem, and where to begin?**
-One approach I personally use to start and solve any case scenario is to use the below method and structure a solution accordingly.
+>   One approach I personally use to start and solve any case scenario is to use the below method and structure a solution accordingly.
 ![image](https://user-images.githubusercontent.com/40434495/236561740-3a14afbc-97e7-430d-9804-5a11f6f0d1dc.png)
 
 - [x] **Clarify**:
@@ -33,6 +33,7 @@ One approach I personally use to start and solve any case scenario is to use the
 
 
 # <h1 align="center">Stages involved in solving a typical data science problem</h2>
+>The links provided in this readme file are crucial for obtaining detailed explanations and learning more concept about the concepts/bag of keywords mentioned. Please make sure to follow the links to gain a deeper understanding of the topic
 
 ##  Data science workflow
 <p align="center">
@@ -94,7 +95,8 @@ One approach I personally use to start and solve any case scenario is to use the
 -   Frameworks like _Flask, Express.JS, FastAPI_
 
 # Prerequisite needed to solve problems:
-Below are few prerequisites that I personally consider to be very useful to solve a use case scenario.
+>   Below are few prerequisites that I personally consider to be very useful to solve a use case scenario
+Explore the packages by clicking on the accompanying images for detailed information on installation and usage instructions
 
 ## 1. Python Programming Language
 <p align="left">
@@ -127,7 +129,7 @@ Below are few prerequisites that I personally consider to be very useful to solv
   </a>
 </p>
 
-## References
+## References:
 >   Textbooks:
 -   Introduction to Algorithms for Data Mining and Machine Learning(Xin-She Yang)
 -   Introduction to Statistical Learning
