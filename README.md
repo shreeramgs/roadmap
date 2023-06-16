@@ -32,8 +32,7 @@ One approach I personally use to start and solve any case scenario is to use the
 -  Provide a conclusion by explaining the problem statement’s significance and decisions to be taken based on the results
 
 
-# **Stages involved in solving a typical data science problem**
-<h2 align="center"> 🔎 For detailed information on each step involved, kindly click on the respective images to read detailed explanations</h2>
+# <h1 align="center">Stages involved in solving a typical data science problem</h2>
 
 ##  Data science workflow
 <p align="center">
@@ -41,7 +40,7 @@ One approach I personally use to start and solve any case scenario is to use the
   </a>
 </p>
 
--   #    Data Analysis
+-   #   [Data Analysis](https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md)
 
 <p align="center">
   <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
@@ -49,31 +48,31 @@ One approach I personally use to start and solve any case scenario is to use the
   </a>
 </p>
 
--   #    Hypothesis Formulation and Testing:
+-   #   [Hypothesis Formulation and Testing](https://github.com/shreeramgs/roadmap/blob/main/Hypothesis%20Formulation%20and%20Testing/readme.md):
 <p align="center">
   <a href="https://github.com/shreeramgs/roadmap/blob/main/Hypothesis%20Formulation%20and%20Testing/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/ac6e3a6a-e2b2-4a3b-b755-8a1338a95eb6" alt="Data Analysis" width="550">
   </a>
 </p>
 
--   #    Feature Engineering:
+-   #   **Feature Engineering**:
     -   Perform appropriate data analysis as mentioned above to get a meaningful set of attributes
 
--   #    Feature Selection:
+-   #   [Feature Selection](https://github.com/shreeramgs/roadmap/blob/main/Feature%20Selection/readme.md):
 <p align="center">
   <a href="https://github.com/shreeramgs/roadmap/blob/main/Feature%20Selection/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/317c54a1-24f4-4cf2-a1e6-18884fe60a0f" alt="Data Analysis" width="550">
   </a>
 </p>
 
--   #    Model Creation and Evaluation:   
+-   #   [Model Creation and Evaluation](https://github.com/shreeramgs/roadmap/blob/main/Model%20Creation%20and%20Evaluation/readme.md):   
 <p align="center">
   <a href="https://github.com/shreeramgs/roadmap/blob/main/Model%20Creation%20and%20Evaluation/readme.md">
     <img src="https://github.com/shreeramgs/roadmap/assets/40434495/d2dcab5e-4813-48f5-b35e-eff8796b7920" alt="Data Analysis">
   </a>
 </p>
 
-#    **Model Deployment**:
+-   #   **Model Deployment**:
 -   Once the trained model is ready, deploy it for corresponding use case scenarios. Further monitor the model and retrain it respectively
 >   **Local deployment**
 -   Locally used on machine or server. Can also be accessed using frameworks such as:
