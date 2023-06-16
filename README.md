@@ -32,7 +32,9 @@ One approach I personally use to start and solve any case scenario is to use the
 -  Provide a conclusion by explaining the problem statement’s significance and decisions to be taken based on the results
 
 
-# **Steps involved in solving a Data Science problem**
+# **Stages involved in solving a typical data science problem**
+<h2 align="center"> 🔎 For detailed information on each step involved, kindly click on the respective images to read detailed explanations</h2>
+
 ##  Data science workflow
 <p align="center">
     <img src="https://github.com/shreeramgs/Data-Science-projects/assets/40434495/816ff17b-5f18-42e1-af9f-9661397797c7" alt="Data science workflow" width="550">
@@ -40,28 +42,57 @@ One approach I personally use to start and solve any case scenario is to use the
 </p>
 
 -   #    Data Analysis
+
 <p align="center">
-    <img src="https://github.com/shreeramgs/roadmap/blob/main/Images/Data%20Analysis.png" alt="Data Analysis" width="550">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/62c835cd-4765-4b64-bf62-e57d53eccd3c" alt="Data Analysis" width="550">
   </a>
 </p>
 
 -   #    Hypothesis Formulation and Testing:
-
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/ac6e3a6a-e2b2-4a3b-b755-8a1338a95eb6" alt="Data Analysis" width="550">
+  </a>
+</p>
 
 -   #    Feature Engineering:
     -   Perform appropriate data Analysis as mentioned above to get a meaningful set of attributes
 
 -   #    Feature Selection:
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/317c54a1-24f4-4cf2-a1e6-18884fe60a0f" alt="Data Analysis" width="550">
+  </a>
+</p>
 
 -   #    Model Creation and Evaluation:   
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/d2dcab5e-4813-48f5-b35e-eff8796b7920" alt="Data Analysis">
+  </a>
+</p>
 
+#    **Model Deployment**:
+-   Once the trained model is ready, deploy it for corresponding use case scenarios. Further monitor the model and retrain it respectively
+>   **Local deployment**
+-   Locally used on machine or server. Can also be accessed using frameworks such as:
+    -   Streamlit
+    -   Django
+    -   Flash
+    -   Express.JS
 
--   #    **Model Deployment**:
+>   **Cloud deployment**
+-   Amazon Web Services (_AWS_)
+-   Google Cloud Platform (_GCP_)
+-   Microsoft Azure
 
+>   **Containerization**
+-   Docker
+-   Kubernetes
 
-
-
-
+>   **Using API's**
+-   Frameworks like _Flask, Express.JS, FastAPI_
 
 # Prerequisite needed to solve problems:
 Below are few prerequisites that I personally consider to be very useful to solve a use case scenario.

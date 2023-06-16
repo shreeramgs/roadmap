@@ -1,4 +1,10 @@
-#    Model Creation and Evaluation:   
+#    Model Creation and Evaluation:  
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/d2dcab5e-4813-48f5-b35e-eff8796b7920" alt="Data Analysis">
+  </a>
+</p>
+ 
 -   Now that the redundant or irrelevant features are removed, next step would be to select an appropriate using the selected features
 >   **Split the data**
 -   Train/ Test/ Validation

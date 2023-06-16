@@ -1,5 +1,9 @@
 #    Data Analysis
-
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/62c835cd-4765-4b64-bf62-e57d53eccd3c" alt="Data Analysis" width="600">
+  </a>
+</p>
 >   **Data Acquisition**:
 -   Gather requirements
 -   identify relevant data, using APIs, web scraping, flat files or other means of data collection

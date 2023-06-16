@@ -1,4 +1,11 @@
 #    Feature Selection:
+
+<p align="center">
+  <a href="https://github.com/shreeramgs/roadmap/blob/main/Data%20Analysis/readme.md">
+    <img src="https://github.com/shreeramgs/roadmap/assets/40434495/317c54a1-24f4-4cf2-a1e6-18884fe60a0f" alt="Data Analysis" width="550">
+  </a>
+</p>
+
 >   **Supervised feature selection**:
 -   **Filter methods**
     -    missing value and information gain
